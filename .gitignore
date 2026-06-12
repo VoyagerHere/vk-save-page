@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Saved page output (can be huge)
+*/index.html
+*/images/
+*/audio/
+*/docs/
+*/articles/
+*/posts.json
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
